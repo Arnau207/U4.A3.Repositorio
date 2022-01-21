@@ -1,0 +1,41 @@
+
+		td, th {
+			border: 2px solid DarkGrey;
+			text-align: center;
+		}
+		
+		.horas {
+			background-color:DarkGrey;
+			}
+		
+		.WOT {
+			background-color:Cyan;
+			}
+			
+		.ENG {
+			background-color:BlueViolet;
+		}
+		
+		.CS {
+			background-color:Orange
+		}
+		
+		.DB { 
+			background-color:LightGreen
+		}
+		
+		.DE {
+			background-color:DarkOrchid
+		}
+		
+		.P {
+			background-color:Coral
+		}
+		
+		.ML {
+			background-color:Gold;
+		}
+		
+		table{
+			border-collapse: collapse;
+		}
